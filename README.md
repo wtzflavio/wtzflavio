@@ -26,7 +26,7 @@
 
 ---
 
-### 💙 Tecnologias
+### Tecnologias
 
 <div align="center">
 
@@ -44,24 +44,24 @@ Sistema administrativo desenvolvido para gerenciamento de produtos, clientes, pe
 
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=007ACC)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=007ACC)
 
 #### 🌐 CIULLA Website
 
 Website institucional e catálogo digital desenvolvido para a CIULLA Acessórios.
 
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=007ACC)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 #### 📱 CIULLA App
 
 Aplicativo mobile desenvolvido em React Native, com catálogo de produtos e estrutura de autenticação.
 
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=007ACC)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=007ACC)
 
 ---
