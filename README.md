@@ -62,7 +62,7 @@ Aplicativo mobile desenvolvido em React Native, com catálogo de produtos e estr
 
 ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=007ACC)
+![Expo](https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=FFFFFF)
 
 ---
 
