@@ -30,28 +30,34 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Projetos em destaque
 
-<div align="center">
+#### 💼 CIULLA Admin
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=wtzflavio&show_icons=true&theme=github_dark&hide_border=true" />
+Sistema administrativo desenvolvido para gerenciamento de produtos, clientes, pedidos e operações internas.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtzflavio&layout=compact&theme=github_dark&hide_border=true" />
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
-</div>
+#### 🌐 CIULLA Website
+
+Website institucional e catálogo digital desenvolvido para a CIULLA Acessórios.
+
+`HTML` `CSS` `JavaScript`
+
+#### 📱 CIULLA App
+
+Aplicativo mobile desenvolvido em React Native, com catálogo de produtos e estrutura de autenticação.
+
+`React Native` `JavaScript` `Expo`
 
 ---
 
-### 🔥 Projetos em destaque
+### 🎯 Atualmente
 
-💼 **CIULLA Admin**  
-Sistema administrativo desenvolvido para gerenciamento de produtos, clientes, pedidos e operações internas.
-
-🌐 **CIULLA Website**  
-Website institucional e catálogo digital desenvolvido para a CIULLA Acessórios.
-
-📱 **CIULLA App**  
-Aplicativo mobile desenvolvido em React Native, com catálogo de produtos e estrutura de autenticação.
+- 📱 Desenvolvendo aplicações mobile com React Native
+- 🌐 Aprimorando meus conhecimentos em desenvolvimento Full Stack
+- 🗄️ Trabalhando com bancos de dados e integração de sistemas
+- 📖 Cursando Ciência da Computação
 
 ---
 
