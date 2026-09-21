@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou o Flavio!</h1>
 
-<!--
-**wtzflavio/wtzflavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  Computer Science Student • Full Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Desenvolvendo soluções web, mobile e sistemas para problemas reais.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Ciência da Computação
+- 💻 Full Stack Developer
+- 🚀 Desenvolvendo projetos Web e Mobile
+- 🗄️ Experiência com desenvolvimento e banco de dados
+- 📚 Sempre aprendendo novas tecnologias
+
+---
+
+### 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,python,java,git,github,vscode" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=wtzflavio&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtzflavio&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+### 🔥 Projetos em destaque
+
+💼 **CIULLA Admin**  
+Sistema administrativo desenvolvido para gerenciamento de produtos, clientes, pedidos e operações internas.
+
+🌐 **CIULLA Website**  
+Website institucional e catálogo digital desenvolvido para a CIULLA Acessórios.
+
+📱 **CIULLA App**  
+Aplicativo mobile desenvolvido em React Native, com catálogo de produtos e estrutura de autenticação.
+
+---
+
+<p align="center">
+  💻 Transformando ideias em código.
+</p>
