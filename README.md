@@ -1,4 +1,4 @@
-<h1 align="center">💙 Olá, eu sou o Flavio!</h1>
+<h1 align="center"> Olá, eu sou o Flavio!</h1>
 
 <h3 align="center">
   Computer Science Student • Full Stack Developer
